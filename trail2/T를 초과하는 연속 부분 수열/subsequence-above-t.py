@@ -16,7 +16,5 @@ for i in range(n):
         else:
 
             cnt = 0
-if t==0:
-    print(len(arr))
-else:
-    print(MAX_LEN)
+
+print(MAX_LEN)
